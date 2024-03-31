@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A e-commerce website clone where in for front end I am using HTML, CSS, Java script and for the backend I am using JAVA and mysql as my database**
+- 🔭 I’m currently working on **a e-commerce website clone where in for front end I am using HTML, CSS, Java script and for the backend I am using JAVA and mysql as my database**
 
 - 🌱 I’m currently learning **Java Spring Boot, Hibernate, Spring MVC, JDBC, HTML, CSS, Java script, Node JS**
 
